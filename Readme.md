@@ -1,0 +1,1 @@
+This app is an illustration of Sqlite DB in android
